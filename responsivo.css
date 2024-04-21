@@ -1,0 +1,51 @@
+@media screen and (max-width: 720px){
+    .navbar {
+        position: relative;
+        border-bottom: 2px solid gray;
+        
+        
+    }
+    .menu {
+        display: none;
+    }
+    .logo {
+        margin: 0;
+        text-align: center;
+    }
+    .headline {
+        margin: 5%;
+        flex: 100%;
+        text-align: center;
+    }
+    .headline p {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .img-headline {
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .whats {
+        display: block;
+    }
+    
+    .cards {
+        width: 90%;
+        margin: 5%;
+        text-align: center;
+    }
+    
+    
+    
+    
+    
+    #botao {
+        
+    }
+    
+    .header {
+        padding-top: 100px;
+    }
+    
+}
